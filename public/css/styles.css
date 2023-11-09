@@ -1,0 +1,16 @@
+p {
+    background-color: aquamarine;
+}
+
+h1 {
+    color: red;
+}
+
+#prueba {
+    font-size: 150px;
+}
+
+#btn {
+    background-color: coral;
+    border-radius: 30%;
+}
